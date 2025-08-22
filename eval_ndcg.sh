@@ -1,0 +1,1 @@
+python eval_ndcg.py --run runs/run.trec --dataset data/economics --k 10

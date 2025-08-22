@@ -1,0 +1,1 @@
+python rerank_cortex.py   --input runs/sample_input.jsonl   --trec_tag cortex-rerank-mvp   --output_dir runs
