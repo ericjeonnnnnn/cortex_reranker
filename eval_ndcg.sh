@@ -1,1 +1,4 @@
-python eval_ndcg.py --run runs/run.trec --dataset data/economics --k 10
+python eval_ndcg.py \
+  --run runs/initial_run.trec \
+  --qrels data/qrels_econ.tsv \
+  --k 10
